@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmoukhalsadoun&label=Profile%20views&color=0e75b6&style=flat" alt="shmoukhalsadoun" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, AI**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **ShmoukhAlsadoun@gmail.com**
 
-- **Be kind to yourself and others, seize each moment, and live with purpose.**
+- **if you want it , work for it .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
