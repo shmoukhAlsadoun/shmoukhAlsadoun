@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python** and **Java**
 
 - 📫 How to reach me **ShmoukhAlsadoun@gmail.com**
 
